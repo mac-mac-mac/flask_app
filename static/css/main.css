@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: "Audiowide", sans-serif;
+    color: gold;
+}
+
+h1, h3 {
+    margin: 25px 25px 0px;
+    padding: 10px;
+    color: white;
+}
+
+h5 {
+    margin: 0px;
+}
+
+form, #myList {
+    margin: 0px 25px;
+    padding: 10px;
+    border: 2px solid gold;
+}
